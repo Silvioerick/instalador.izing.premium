@@ -14,8 +14,8 @@ pause
 sudo apt-get update -y
 sudo apt-get upgrade -y
 sudo apt-get install jq -y
-chmod +x izingopenarm
-chmod +x izingopenx86
+chmod +x izingpremiumarm
+chmod +x izingpremiumx86
 
 ARCH=$(uname -m)
 
